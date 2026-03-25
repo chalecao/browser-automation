@@ -23,6 +23,11 @@
 git clone https://github.com/chalecao/browser-automation.git
 ```
 
+也可以直接告诉小龙虾：
+```
+安装这个skill GitHub - chalecao/browser-automation: 
+```
+
 ### 2. 初始化环境
 
 首次使用时，告诉助手：
