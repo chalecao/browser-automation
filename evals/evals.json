@@ -1,0 +1,23 @@
+{
+  "skill_name": "browser-automation",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我想用浏览器自动化来抓取网页数据，帮我初始化一下环境",
+      "expected_output": "指导用户完成初始化流程：检查初始化状态、开启 Chrome 远程调试、检查/安装 openclaw、提供使用示例",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "帮我设置一下 openclaw，我要做网页自动化测试",
+      "expected_output": "检查 openclaw 版本，如果需要则安装/更新到 2026.3.13，然后提供使用示例",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "我已经初始化过了，直接给我几个浏览器自动化的示例代码",
+      "expected_output": "跳过初始化流程，直接提供使用示例代码",
+      "files": []
+    }
+  ]
+}
